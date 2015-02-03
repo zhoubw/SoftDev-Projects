@@ -1,9 +1,9 @@
 #SoftDev Projects 2014-2015
 Barak Zhou
 
-###Final project: pending name
+###Final project: Bizcuits
 #####Barak Zhou, Max Zhou, Ling Dong, Ivy Wong
-https://github.com/zhoubw/liviable
+https://github.com/zhoubw/Bizcuits
 
 ###Intro-project 1: Simple File Reading and Webpages
 #####Barak Zhou, Tianshi Wang
